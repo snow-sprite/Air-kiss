@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "moment": "^2.29.1",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.4.17"
+  }
+}
